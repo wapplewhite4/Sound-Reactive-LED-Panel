@@ -1,8 +1,10 @@
 # Sound-Reactive-LED-Panel
 Sound Reactive Wifi Enabled LED Panel - Will Applewhite
 
-Components
-Hardware:
+Components List
+
+Hardware -
+
 ESP32 Wifi/Bluetooth Enabled Microcontroller (x2)
 
 INMP441 Omnidirectional Microphone MEMS Module
@@ -21,11 +23,11 @@ TP-Link AC1200 Wifi Range Extender
 
 Plug In Socket Watt Meter
 
-	Software:
+	Software - 
  
 WLED 0.13.3 SR Fork
 
-	Other Materials:
+	Other Materials -
  
 ½ in x 1.5 in Oak Board
 
